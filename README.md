@@ -9,3 +9,8 @@ Prj Scope: TBD.
 Roles: TBD.
 
 Schecule: TBD.
+
+Trainings:
+https://cs224d.stanford.edu/index.html
+http://web.stanford.edu/class/cs224n/
+
